@@ -2,7 +2,7 @@
 <!-- ![Banner](https://your-image-link.com/banner.png) -->
 
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">Full-Stack Developer | Discord Bots | FiveM Systems | Web Apps</h3>
+<h3 align="center">Full-Stack Developer | Discord Bots | FiveM Scripts | Web Apps</h3>
 
 ---
 
