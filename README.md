@@ -63,9 +63,3 @@
 
 - 🐦 Instagram: [@nomore0xf](https://www.instagram.com/nomore0xf)
 - 💬 Discord: [@0xf](https://discord.com/users/757509151390957618)
-
----
-
-## 🧊 Fun Fact
-> I don't just build systems — I **design** them to scale, secure them to last, and automate them to fly 🚀
-
