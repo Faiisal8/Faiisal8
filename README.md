@@ -11,7 +11,7 @@
 - 🧑‍💻 I'm passionate about full-stack development, real-time systems, and backend architecture.
 - ⚙️ I work with modern stacks like TypeScript, React, Node.js, Prisma, and Redis.
 - 🌍 I build and maintain Discord bots, FiveM scripts, and SaaS dashboards.
-- 🚀 Currently learning **NestJS**, **Redis optimization**, and **microservices**.
+- 🚀 Currently learning **NextJs**, **Redis optimization**, and **microservices**.
 
 ---
 
