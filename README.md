@@ -23,8 +23,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components)
+
 
 ### 🧩 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -65,6 +67,6 @@
 
 ## 📫 Contact Me
 
-- 🌐 Website: [nomore0xf.vercel.app](https://nomore0xf.dev)
+- 🌐 Website: [nomore0xf.dev](https://nomore0xf.dev)
 - 🐦 Instagram: [@nomore0xf](https://www.instagram.com/nomore0xf)
 - 💬 Discord: [@0xf](https://discord.com/users/757509151390957618)
