@@ -33,6 +33,8 @@
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
 
 ### 🗃️ Database & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -63,6 +65,6 @@
 
 ## 📫 Contact Me
 
-- 🌐 Website: [nomore0xf.vercel.app](https://nomore0xf.vercel.app)
+- 🌐 Website: [nomore0xf.vercel.app](https://nomore0xf.dev)
 - 🐦 Instagram: [@nomore0xf](https://www.instagram.com/nomore0xf)
 - 💬 Discord: [@0xf](https://discord.com/users/757509151390957618)
