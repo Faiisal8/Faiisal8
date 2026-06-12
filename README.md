@@ -1,71 +1,71 @@
-<!-- Banner (optional) -->
-<!-- ![Banner](https://your-image-link.com/banner.png) -->
-
-<h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">Full-Stack Developer | Discord Bots | FiveM Scripts | Web Apps</h3>
-
----
-
-## 🧠 About Me
-
-- 🧑‍💻 I'm passionate about full-stack development, real-time systems, and backend architecture.
-- ⚙️ I work with modern stacks like TypeScript, React, Node.js, Prisma, and Redis.
-- 🌍 I build and maintain Discord bots, FiveM scripts, and SaaS dashboards.
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components)
-
-
-### 🧩 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=flat)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-
-### 🗃️ Database & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### 🔧 Tools & Dev Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faiisal8&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiisal8&layout=compact&theme=radical" height="170"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%5B%23%5D;%5B%25%5D;0%5B%2A%5D;0x%5B%3F%5D;0xf" alt="0xf" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faiisal8&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117" alt="0xf's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faiisal8&theme=tokyonight&hide_border=true&background=0d1117" alt="0xf's Streak" height="180" />
+</p>
 
-## 📫 Contact Me
+<br />
 
-- 🌐 Website: [nomore0xf.dev](https://nomore0xf.dev)
-- 🐦 Instagram: [@nomore0xf](https://www.instagram.com/nomore0xf)
-- 💬 Discord: [@0xf](https://discord.com/users/757509151390957618)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiisal8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" width="450" />
+</p>
+
+<br />
+
+<p align="center">
+  <strong>BACKEND SYSTEMS & LINUX INFRASTRUCTURE ENGINEER</strong>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://nomore0xf.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-nomore0xf.dev-%23121214.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" />
+  </a>
+  <a href="https://discord.com/users/757509151390957618" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0xf-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.instagram.com/nomore0xf" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-nomore0xf-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+<img src="https://camo.githubusercontent.com/74ce8cd2e2dc6cca4458a2bcf519b2741dd96d725d1799223aada2869846a806/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d436861726c6965417661696c61626c6526636f6c6f723d306431313137267374796c653d666f722d7468652d6261646765266c6162656c3d5649455753" data-canonical-src="https://komarev.com/ghpvc/?username=CharlieAvailable&amp;color=0d1117&amp;style=for-the-badge&amp;label=VIEWS" style="max-width: 100%;">
+</p>
