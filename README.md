@@ -57,10 +57,10 @@
     <img src="https://img.shields.io/badge/Website-nomore0xf.dev-%23121214.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" />
   </a>
   <a href="https://discord.com/users/757509151390957618" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0xf-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/Discord-@0xf-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="28" />
   </a>
   <a href="https://www.instagram.com/nomore0xf" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-nomore0xf-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/Instagram-@nomore0xf-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
   </a>
 </p>
 
